@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shekhu2601/TextUtlis-React/static/css/main.eb4712b7.css",
+    "main.js": "/Shekhu2601/TextUtlis-React/static/js/main.e5bcecc9.js",
+    "static/js/453.02b6ed6f.chunk.js": "/Shekhu2601/TextUtlis-React/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/Shekhu2601/TextUtlis-React/index.html",
+    "main.eb4712b7.css.map": "/Shekhu2601/TextUtlis-React/static/css/main.eb4712b7.css.map",
+    "main.e5bcecc9.js.map": "/Shekhu2601/TextUtlis-React/static/js/main.e5bcecc9.js.map",
+    "453.02b6ed6f.chunk.js.map": "/Shekhu2601/TextUtlis-React/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4712b7.css",
+    "static/js/main.e5bcecc9.js"
+  ]
+}
